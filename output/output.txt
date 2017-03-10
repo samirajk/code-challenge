@@ -1,1 +1,3 @@
-Your output data will end up here
+[id=96f55c7d8f46, numSiteVisits=1, totalAmountSpent=1000.3400268554688, ltv=520176.81396484375]
+[id=96f55c7d8f43, numSiteVisits=1, totalAmountSpent=24.68000030517578, ltv=12833.600158691406]
+[id=96f55c7d8f45, numSiteVisits=1, totalAmountSpent=12.34000015258789, ltv=6416.800079345703]
